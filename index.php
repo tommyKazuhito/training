@@ -5,6 +5,6 @@
   <title>gitのテスト</title>
 </head>
 <body>
-
+<?php echo 'やらかしたw'; ?>
 </body>
 </html>
